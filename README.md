@@ -72,9 +72,9 @@ I'm a passionate programmer who enjoys building projects and solving coding chal
 
 ### Coding Platforms
 
-* LeetCode: **110+ Problems Solved**
-* Skillrack: **1200+ Problems Solved**
-* CodeChef: **120+ Problems Solved**
+* LeetCode: **150+ Problems Solved**
+* Skillrack: **1500+ Problems Solved**
+* CodeChef: **70+ Problems Solved**
 
 ### HackerRank Achievements
 
