@@ -1,140 +1,185 @@
 # Hi, I'm Kavinesh 👋
 
-🎓 Computer Science Engineering Student
+🎓 Computer Science Engineering Student  
+💻 Software Developer | AI/ML Enthusiast | Problem Solver
 
-I'm a passionate programmer who enjoys building projects and solving coding challenges. I continuously improve my problem-solving skills through competitive programming and hands-on software development. Currently, I am learning Java, Database Management Systems, and Algorithms to strengthen my foundation in software engineering.
+I enjoy building practical software projects, exploring AI/ML,
+and improving my problem-solving skills through competitive programming.
 
----
-
-## 💻 Technical Skills
-
-### Programming Languages
-
-* C
-* C++
-* Python
-* Java (Learning)
-
-### Web Technologies
-
-* HTML
-* CSS
-* JavaScript
-
-### Databases
-
-* MongoDB
-* SQL
-* DBMS Concepts
-
-### Core Subjects
-
-* Data Structures
-* Algorithms
-* Object-Oriented Programming
-* Database Management Systems
+Currently focused on:
+- ☕ Java & Data Structures
+- 🗄️ DBMS & SQL
+- 🤖 AI/ML Applications
+- 🌐 Full-Stack Development
+- 📊 Data Analytics
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🏫 College Management System
+### 🧠 Problemint
+AI-powered institutional complaint intelligence system.
 
-**Technology:** C
+- Complaint categorization and analysis
+- Similar complaint detection
+- AI clarification and pre-resolution
+- Incident and root-cause analysis
+- Dashboards, analytics and knowledge base
 
-* Developed a console-based application for managing college-related records.
-* Implemented student data management and record handling functionalities.
+**Tech:** Java, AI/ML, CSV, REST APIs
 
-### 🌍 Tourist Web Application
+---
 
-**Technology:** HTML, CSS, JavaScript
+### 💊 MedivaLut
+Medicine inventory management system designed to simplify
+medicine stock and expiry management.
 
-* Designed and developed a responsive tourism website.
-* Provided destination information and user-friendly navigation.
+- Add, update, delete and search medicines
+- Stock tracking
+- Expiry monitoring
+- File-based data management
 
-### 💰 Fundraising Management System
+**Tech:** Python
 
-**Technology:** C++
+---
 
-* Developed a system to manage fundraising campaigns and records.
-* Applied object-oriented programming concepts.
+### 📦 HyperDemand-AI
+AI-based hyperlocal demand prediction system for small retail shops.
 
-### 💊 Medicine Inventory System
+- Product-wise demand prediction
+- Inventory shortage/overstock alerts
+- Historical sales analysis
+- Seasonal and contextual factors
+- Rule-based prototype with future ML integration
 
-**Technology:** Python, MongoDB
+**Tech:** Python, Machine Learning
 
-* Built an inventory management system for medicine stock tracking.
-* Integrated MongoDB for database operations and record maintenance.
+---
+
+### 🛡️ DarkShield
+AI-assisted dark-pattern detection system for websites and applications.
+
+- Detects deceptive interaction patterns
+- Monitors user interactions
+- Identifies excessive steps and repeated prompts
+- Detects forced actions and cancellation difficulties
+- Helps users recognize potentially deceptive interfaces
+
+**Tech:** JavaScript, Browser Extension, AI/ML
+
+---
+
+### ⚡ MCB Vision
+Intelligent MCB short-circuit test monitoring and analysis system.
+
+- Automated MCB testing concept
+- Electrical parameter monitoring
+- Trip-time analysis
+- Abnormal/Normal/Fail classification
+- Machine-learning based prediction
+
+**Tech:** Python, XGBoost, ESP32
+
+---
+
+### 🤖 AI Study Coach
+AI-powered study assistance platform designed to help students
+plan, monitor and improve their learning.
+
+**Tech:** AI/ML, Python, Web Technologies
+
+---
+
+### 📊 Data Analytics Portfolio
+Collection of data analysis projects using real-world datasets.
+
+- Data cleaning
+- Exploratory Data Analysis
+- Visualization
+- Statistical insights
+- Power BI dashboards
+
+**Tech:** Python, Pandas, Matplotlib, Power BI, SQL
+
+---
+
+### 🏪 TinyStore
+A software project focused on store/inventory management.
+
+**Tech:** Java
 
 ---
 
 ## 🧠 Problem Solving
 
-### Coding Platforms
+| Platform | Progress |
+|---|---:|
+| 🟢 LeetCode | 180+ Problems |
+| 🟡 SkillRack | 1500+ Problems |
+| 🔵 CodeChef | 290+ Problems |
 
-* LeetCode: **150+ Problems Solved**
-* Skillrack: **1500+ Problems Solved**
-* CodeChef: **70+ Problems Solved**
+### Topics I Practice
 
-### HackerRank Achievements
+`Arrays` • `Strings` • `Searching` • `Sorting`  
+`Linked Lists` • `Stacks` • `Queues` • `Hashing`  
+`Trees` • `Graphs` • `Dynamic Programming`  
+`SQL` • `DBMS` • `OOP`
 
-* ⭐⭐⭐ Java
-* ⭐⭐⭐ C++
-* ⭐⭐⭐ C
-* ⭐⭐⭐ Problem Solving
+---
 
-### Topics Practiced
+## 💻 Tech Stack
 
-* Arrays
-* Strings
-* Searching
-* Sorting
-* Recursion
-* Data Structures
-* Algorithms
-* Problem Solving Techniques
+### Languages
+C • C++ • Java • Python • SQL
+
+### Web
+HTML • CSS • JavaScript
+
+### Databases
+MongoDB • SQL
+
+### Tools & Technologies
+Git • GitHub • VS Code • Power BI
+
+### Core Concepts
+Data Structures • Algorithms • OOP • DBMS
 
 ---
 
 ## 🏆 Certifications
 
-* NPTEL – Joy of Computing Using Python (**Elite + Gold**)
-* Mastering Data Structures using C – Udemy
-* C Programming for Beginners – Udemy
-* C Programming 101 – Infosys Springboard
+- 🥇 NPTEL – Joy of Computing Using Python
+  **Elite + Gold**
+- Mastering Data Structures using C – Udemy
+- C Programming for Beginners – Udemy
+- C Programming 101 – Infosys Springboard
 
 ---
 
 ## 🌱 Currently Learning
 
-* Java Programming
-* Database Management Systems (DBMS)
-* Data Structures & Algorithms
-* Object-Oriented Programming
+- ☕ Advanced Java
+- 🧠 Data Structures & Algorithms
+- 🗄️ DBMS & SQL
+- 🤖 AI/ML
+- 🌐 Full-Stack Development
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Goals
 
-* Strengthen Data Structures & Algorithms
-* Build Full-Stack Applications
-* Contribute to Open Source Projects
-* Secure Software Development Internship Opportunities
-* Become a Skilled Software Engineer
-
----
-
-## 📈 GitHub Goals
-
-* Build impactful projects
-* Maintain clean and well-documented repositories
-* Practice coding consistently
-* Share learning through GitHub
+- Solve more challenging DSA problems
+- Build production-level software projects
+- Strengthen AI/ML skills
+- Contribute to open source
+- Become a strong software engineer
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: github.com/Kavinesh2008
+🔗 GitHub: [Kavinesh2008](https://github.com/Kavinesh2008)
 
-⭐ "Code, Learn, Improve, Repeat."
+---
+
+⭐ Code • Learn • Build • Improve
