@@ -114,9 +114,9 @@ A software project focused on store/inventory management.
 
 | Platform | Progress |
 |---|---:|
-| 🟢 LeetCode | 180+ Problems |
-| 🟡 SkillRack | 1500+ Problems |
-| 🔵 CodeChef | 290+ Problems |
+| 🟢 LeetCode | 300+ Problems |
+| 🟡 SkillRack | 1750+ Problems |
+| 🔵 CodeChef | 350+ Problems |
 
 ### Topics I Practice
 
